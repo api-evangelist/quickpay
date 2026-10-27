@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Quickpay is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://quickpay.net/
+Quickpay is a European payment service provider offering a RESTful API for online merchants to accept a wide range of payment methods, including cards, mobile wallets, and local schemes. It supports multi‑currency processing, recurring payments, and detailed reporting, serving thousands of merchants across the EU. The platform emphasizes security, compliance with PSD2, and easy integration via SDKs and documentation.
+
+**Areas:** Payments · API · FinTech · European · E‑commerce
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://quickpay.net/)
+- [Documentation](https://learn.quickpay.net/tech-talk/api/)
+- [Getting started](https://quickpay.net/)
+- [API reference](https://learn.quickpay.net/tech-talk/api/)
+- [Pricing](https://quickpay.net/prices-eu)
+- [Support](https://quickpay.net/helpdesk)
+- [Blog](https://quickpay.net/blog)
+- [Terms of service](https://quickpay.net/terms-of-service)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/quickpay/](https://apis.io/providers/quickpay/).
